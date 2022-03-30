@@ -36,12 +36,31 @@
 
 GL9306支持串口输出和I2C输出，光流接口如图所示：
 
-光流调试助手（代码）
+[光流调试助手代码](https://github.com/geniusdo/drone-V0.1/files/8379183/default.zip)
+
+### 电流计
+**功能**：电流计用于检测电池电压和电池电流，飞控板接收这两个信号，计算电池剩余电量，估算剩余飞行时间。
+
+模块参数会涉及最大输入电压与可测量的最大电流，实现控制板对电池电量和电压的监测。
+
 ### 飞控
 
 [ACFLY A9飞控用户手册](https://github.com/geniusdo/drone-V0.1/files/8378765/ACFLY.A9.V2.2.pdf)
 
-## 无人机启动流程、
+## 无人机启动流程
 
-[无人机起飞流程1.0](https://github.com/geniusdo/drone-V0.1/files/8379078/1.0.pdf)
+[无人机起飞流程.pdf](https://github.com/geniusdo/drone-V0.1/files/8379452/1.0.pdf)
+
+### 供电
+对应引脚参照PDF流程飞控供电端口说明**在电源接线时一定要再三确认连接是否正确**
+
+### 遥控器设置
+### 电机桨叶方向
+### 调参
+
+## 附录
+
+[ACFly与电调标准固件代码](https://github.com/geniusdo/drone-V0.1/files/8379151/default.zip)
+
+[DFU驱动](https://github.com/geniusdo/drone-V0.1/files/8379222/DFU.zip)
 
