@@ -1,5 +1,4 @@
 # drone-V0.1
-# drone-V0.1
 ## 器件简介
 ### 电源
 电源参数为：4000mAh-30C-14.8V-4S1P
@@ -41,3 +40,8 @@ GL9306支持串口输出和I2C输出，光流接口如图所示：
 ### 飞控
 
 [ACFLY A9飞控用户手册](https://github.com/geniusdo/drone-V0.1/files/8378765/ACFLY.A9.V2.2.pdf)
+
+## 无人机启动流程、
+
+[无人机起飞流程1.0](https://github.com/geniusdo/drone-V0.1/files/8379078/1.0.pdf)
+
