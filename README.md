@@ -87,6 +87,7 @@ GL9306支持串口输出和I2C输出
 ## 附录
 
 [ros](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/chapter2/2.2.html)
+[古月居](https://www.guyuehome.com/)
 
 [ACFly与电调标准固件代码](https://github.com/geniusdo/drone-V0.1/files/8379151/default.zip)
 
